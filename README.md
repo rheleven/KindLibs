@@ -1,0 +1,4 @@
+KindLibs
+========
+
+my common library
